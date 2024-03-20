@@ -12,8 +12,7 @@ pypdf
 python-dotenv
 replicate
 docx2txt
-AIMessage
-HumanMessage
-RecursiveCharacterTextSplitter
-WebBaseLoader
+langchain.text_splitter
+langchain_community.document_loaders
+langchain_core.messages
 Chromadb
