@@ -14,3 +14,12 @@ replicate
 docx2txt
 Chromadb
 streamlit_option_menu
+streamlit_lottie
+requests
+time
+tempfile
+dotenv
+os
+firebase_admin
+platform
+PIL
