@@ -1,4 +1,4 @@
-langchain
+langchain==0.1.4
 torch
 accelerate
 sentence_transformers
@@ -12,7 +12,4 @@ pypdf
 python-dotenv
 replicate
 docx2txt
-langchain.text_splitter
-langchain_community.document_loaders
-langchain_core.messages
 Chromadb
