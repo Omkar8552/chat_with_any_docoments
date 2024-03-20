@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sound-bay-413007",
+  "private_key_id": "1f49d2a03d6f31db69964d02a587f362ebcacd8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCvgfGCMnrGj+p\nntjQApdaT/Z2mIFr8Svmzcb3BZj1mLViBcSEngCFA/y44rPYY8WGPfodnuKmq8bV\nTmNoJHaVz9eIsnyPlRqtCpTIkISQ0fFP/VAeSIO5k9Ne5w6b15zTq+eYHTinE8O2\nCq3Isnwjk9sDLGjkLio8KtfcUX+vcF30Ij/9TQ1SLtUefQBSn4/MgDePDkkB39uE\nlCqqB/G1cG0XszuqYqNAf2AvwISNguNtD4/5t6nAfHEiPb68gj9iN92y0HKTGYBk\ntk9zOkgCvGF8kKSqbv5+AFwp6xz/NXi4OrW3+3heeXYqCVTwnXewRVISzagOR3i9\nMLObcLxfAgMBAAECggEAFbncpSfS2xNNGe/aUW6QkydLoFSIT9ISq0e21FVACNpW\nFg79qyvzc+OLfNbx6IjM/xqH/mj88UpFvwNlTLeQsUsESUBcbCpe1QJSsgOJfpyl\ndt6UYySE6Z3H3ZUaiKFn4ieSCWLtMJqgYX1UgQkEl3WF4BdCxn4uARNojLBc9eX6\nBqEFAjamOhf5i6u0zMbx7pppc2nzVt55aLeFK6uKmmd0TpIvnbGXnYcLILVrIAzm\no/VYdqB7Z/o+swGyuvDjTQucNpt4oMA3vZ8yT5BobFrChZ5YISFTZOD7V/DD6Ybi\nTRe9yye29w3XEGYbxA7Z/4X5lRX2Wy+bOlptV4z1EQKBgQDldf6ICXH4ARqAzSZx\noml97xNkXHwj0dFBs6EkWEE1wl7M9uKsryHKnRMWbnOyPDr3//IfTYqjahdAi9wF\np0LnyspffXOSyfX8XXFnndR6u4i0onD6HSBqtPjaASsUIeA/9uoM2OyOi9RhT9sQ\n/dd49tYjtt7EwZbENAtAisT37wKBgQDZRBF9QxXfbDUqwHYs6gbzt35dYj63lbUP\n394SuZnWZ2qI0296PYI9hm0octVlmikH/Ao4dal6fuIGDg+XRdMFGjkfGsf9Pdxw\nX8ADzNRJcZi6Xxdt7WKWKLUmN4WeuptXiF1JM3Ul6e9/h4+LUTNFCRcwWk2wQy95\nWNuDESaSkQKBgHbOwmyTX2RGxf88uZQKwM5I1GSZkllFkTCQnnXgEFuSeV1s028P\n+tIaxEBQDi2SDAJOjoHwt0DndISiJdjzgqvbjy8kGIw/b9MsWsSIrvShVyYYGaEX\nJaq6a0MNac2xwJe98++U/d7MvblpDIdet4tVWwkA7ZU4mySZwd24PEYXAoGBANVr\nmOZ8FKtRBvUE89Dw3n1fnUCsNkFuTNrYJLQuH2DOW4cmcxYX/6ziNK4MB3VztqSC\nP6PwaNfMdchO3Z/SVhRoCv5z90nbD4RPejYBafLvJIDG0iQIkNRCDpgI6DfgxKF6\ncXBrnMLuhnW2uxm2XO+Om3nC6xefF65Sy+Z23XYRAoGAMAnXsjYhanYoCH03x/7r\nlzX7lFpjuulNt/ukNLb/ToxvUcc4O0tSOfhKu8ORpdzgbJeUTcAzSOKB7vTOKBzU\nj7BmGYD3sZ1dGbuC/5DKSINWFHikDN4GTWhMTJobID2S4sI9Dq+rozJLPrpT9emF\nnY9RrMiXqfqMMuPe0IJCcZ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-o8f7r@sound-bay-413007.iam.gserviceaccount.com",
+  "client_id": "115506691518424045175",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-o8f7r%40sound-bay-413007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
