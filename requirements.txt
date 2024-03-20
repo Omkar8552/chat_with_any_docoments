@@ -15,6 +15,8 @@ docx2txt
 Chromadb
 streamlit_option_menu
 streamlit_lottie
+hachoir-core==1.3.3
+metadata
 requests==2.31.0
 dotenv
 os
@@ -22,3 +24,4 @@ firebase_admin
 platform
 PIL
 tempfile
+
