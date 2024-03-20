@@ -16,7 +16,6 @@ Chromadb
 streamlit_option_menu
 streamlit_lottie
 requests
-time
 tempfile
 dotenv
 os
