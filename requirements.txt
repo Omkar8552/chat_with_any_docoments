@@ -15,10 +15,10 @@ docx2txt
 Chromadb
 streamlit_option_menu
 streamlit_lottie
-requests
-tempfile
+requests==2.31.0
 dotenv
 os
 firebase_admin
 platform
 PIL
+tempfile
