@@ -13,3 +13,4 @@ python-dotenv
 replicate
 docx2txt
 Chromadb
+streamlit_option_menu
