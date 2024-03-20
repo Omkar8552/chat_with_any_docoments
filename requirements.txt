@@ -15,7 +15,6 @@ docx2txt
 Chromadb
 streamlit_option_menu
 streamlit_lottie
-metadata
 requests==2.31.0
 dotenv
 os
