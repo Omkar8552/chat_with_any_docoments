@@ -16,7 +16,7 @@ Chromadb
 streamlit_option_menu
 streamlit_lottie
 requests==2.31.0
-dotenv
+python-dotenv
 os
 firebase_admin
 platform
